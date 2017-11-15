@@ -16,14 +16,14 @@ class Father
 {
 	public function baobao()
 	{
-		echo '乖乖别哭，爸爸抱抱带去找谭江华';
+		echo '乖乖别哭，我是爸爸';
 	}
 }
 class Mother
 {
 	public function baobao()
 	{
-		echo '乖乖别哭，妈妈抱抱带去找谭江华';
+		echo '乖乖别哭，我是妈妈';
 	}
 }
 $baby = new Son();
